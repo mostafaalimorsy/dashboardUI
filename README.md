@@ -14,5 +14,5 @@
 
 ## Screenshots:
 
-![1](screenshoot/1.jpg)
-![1](screenshoot/2.jpg)
+![1](screenshoot/1.png)
+![1](screenshoot/2.png)
